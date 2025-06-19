@@ -18,21 +18,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+🔭 Actualmente estoy trabajando en proyectos con ASP.NET, Node.js, React, Angular y bases de datos como MySQL y SQL Server.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+🌱 Estoy aprendiendo a integrar múltiples tecnologías modernas para crear aplicaciones web escalables.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+☁️ Me interesa profundamente la computación en la nube, servicios de backend como Firebase.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+📝 Escribo regularmente sobre tecnología y desarrollo para compartir conocimientos con otros desarrolladores.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
+📫 Puedes contactarme sin problema en [shumackerlorenzo@gmail.com].
 
 
 
