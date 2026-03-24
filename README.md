@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Shumacker</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, Soy Shumacker</h1></summary>
   </ul>
 </div>
 
@@ -12,28 +12,28 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"Compila. Debe estar bien."</h2></summary>
+    <summary><h2 style="display: inline-block">"Compile it. It should be good."</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-🔭 Actualmente estoy trabajando en proyectos con ASP.NET, Node.js, React, Angular y bases de datos como MySQL y SQL Server.
+🔭 I'm currently working on projects using ASP.NET, Express, React, Angular, and databases like MySQL and SQL Server.
 
-🌱 Estoy aprendiendo a integrar múltiples tecnologías modernas para crear aplicaciones web escalables.
+🌱 I'm learning to integrate multiple modern technologies to create scalable web applications.
 
-☁️ Me interesa profundamente la computación en la nube, servicios de backend como Firebase.
+☁️ I'm deeply interested in cloud computing and backend services like Firebase.
 
-📝 Escribo regularmente sobre tecnología y desarrollo para compartir conocimientos con otros desarrolladores.
+📝 I regularly write about technology and development to share knowledge with other developers.
 
-📫 Puedes contactarme sin problema en [shumackerlorenzo@gmail.com].
+📫 You can contact me at [shumackerlorenzo@gmail.com].
 
 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías con las que trabajo</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I work with</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
