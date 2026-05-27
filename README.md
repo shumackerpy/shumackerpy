@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-🔭 I'm currently working on projects using ASP.NET, Express, React, Angular, and databases like MySQL and SQL Server.
+🔭 I'm currently working on projects using ASP.NET, Express, React, Angular, and databases like SQL Server, PostgresSQL, MongoDB .
 
 🌱 I'm learning to integrate multiple modern technologies to create scalable web applications.
 
